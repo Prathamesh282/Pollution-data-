@@ -1,2 +1,2 @@
-# Pollution-data-
+# Pollution-data
 pollution predictor 
